@@ -30,4 +30,5 @@ class AppInitServiceProvider extends PackageServiceProvider
                 ConfigureEnvCommand::class,
             ]);
     }
+
 }
